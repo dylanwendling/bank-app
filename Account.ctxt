@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Account
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=newName
+comment2.target=void\ setName(java.lang.String)
+comment3.params=
+comment3.target=int\ getBalance()
+comment4.params=newBalance
+comment4.target=void\ setBalance(int)
+comment5.params=amount
+comment5.target=void\ deposit(int)
+comment6.params=amount
+comment6.target=void\ withdraw(int)
+comment7.params=accountDetails
+comment7.target=void\ deserialize(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ serialize()
+numComments=9

@@ -1,0 +1,4 @@
+3
+June,50
+Frank,10
+Joan,15
